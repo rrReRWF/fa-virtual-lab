@@ -32,3 +32,12 @@ https://<用户名>.github.io/<仓库名>/
 若需保留原自定义域名（fa-lab-team02-jiojiojio.icu），可在仓库 Settings → Pages 中配置 Custom domain。
 
 > 说明：因原始构建依赖包含一个本地插件（`kimi-plugin-inspect-react`），本仓库直接采用已构建好的 `dist/` 产物发布，避免因依赖不可用导致 CI 构建失败。
+
+
+---
+
+## 线上站点
+
+**公开站点（国内外均可访问）：https://rrrerwf.github.io/**
+
+（部署仓库为 `rrReRWF.github.io` 的 `main` 分支，即根域名站点；本仓库 `gh-pages` 分支仅做跳转，源码在 `main` 分支。）
